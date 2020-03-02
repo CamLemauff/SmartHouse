@@ -1,0 +1,10 @@
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\SmartHouse.deps.json
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\SmartHouse.runtimeconfig.json
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\SmartHouse.runtimeconfig.dev.json
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\SmartHouse.dll
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\SmartHouse.pdb
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\SmartHouse.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\SmartHouse.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\SmartHouse.AssemblyInfo.cs
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\SmartHouse.dll
+C:\Users\camil\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\SmartHouse.pdb
